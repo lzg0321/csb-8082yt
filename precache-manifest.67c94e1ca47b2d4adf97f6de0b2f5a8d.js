@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "500ef4b31779b81cb372b8e338593bad",
+    "revision": "0a993ccd93dfa7bad2344e7cc7c74c5d",
     "url": "https://lzg0321.github.io/csb-8082yt/index.html"
   },
   {
-    "revision": "66afbf18087519ad12d6",
+    "revision": "e95cec30911b13e3bbb2",
     "url": "https://lzg0321.github.io/csb-8082yt/static/css/main.9b1431d8.chunk.css"
   },
   {
-    "revision": "172baf615f4e89fb5939",
-    "url": "https://lzg0321.github.io/csb-8082yt/static/js/2.a40e2d33.chunk.js"
+    "revision": "43137ca353de93b52298",
+    "url": "https://lzg0321.github.io/csb-8082yt/static/js/2.2b217450.chunk.js"
   },
   {
     "revision": "464fef3691779b3926634327df24dae8",
-    "url": "https://lzg0321.github.io/csb-8082yt/static/js/2.a40e2d33.chunk.js.LICENSE.txt"
+    "url": "https://lzg0321.github.io/csb-8082yt/static/js/2.2b217450.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66afbf18087519ad12d6",
-    "url": "https://lzg0321.github.io/csb-8082yt/static/js/main.ed052ae5.chunk.js"
+    "revision": "e95cec30911b13e3bbb2",
+    "url": "https://lzg0321.github.io/csb-8082yt/static/js/main.63dad577.chunk.js"
   },
   {
     "revision": "8c790ee041399c971df6",
